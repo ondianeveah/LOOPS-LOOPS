@@ -7,7 +7,6 @@ public class AreWeThereYet {
         Scanner sc = new Scanner(System.in);
         boolean arrived = true;
         boolean notArrived = true;
-        String name = "Please answer yes or no";
 
         while(notArrived){
             System.out.println("Are We There Yet?");
