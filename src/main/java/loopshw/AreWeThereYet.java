@@ -18,7 +18,8 @@ public class AreWeThereYet {
             }else if(notArrived){
                 System.out.println(("No!!"));
                 notArrived = true;
+                return;
+            }
             }
         }
             }
-        }
